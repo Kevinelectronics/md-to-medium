@@ -107,4 +107,4 @@ MIT — free to use, modify, and distribute.
 
 ---
 
-*Built by [Kevin Meneses](https://www.linkedin.com/in/kevin-meneses-gonzalez/) · If this saved you time, [follow me on Medium](https://medium.com/@kevinmeneses)*
+*Built by [Kevin Meneses](https://www.linkedin.com/in/kevin-meneses-gonzalez/) · If this saved you time, [follow me on Medium](https://medium.com/@kevinmenesesgonzalez)*
